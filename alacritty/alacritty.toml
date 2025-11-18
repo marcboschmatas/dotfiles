@@ -1,13 +1,10 @@
 general.import = [
-    "~/.config/alacritty/themes/omni.toml"
+    "~/.config/alacritty/themes/themes/solarized_dark.toml"
 ]
 
 [window]
 opacity = 0.9
 
-[colors.primary]
-background = "#191622"
-foreground = "#e1e1e6"
 
 [font]
 size = 10.0
