@@ -1,0 +1,10 @@
+/* colors */
+
+* {
+    background: #212121;
+    background-light: #272727;
+    foreground: #FDF6E3;
+    foreground-dark: #073642;
+    primary: #268BD2;
+    bordercolor: #268BD2;
+}
